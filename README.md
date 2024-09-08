@@ -1,0 +1,1 @@
+# Resolu-o-de-Atividades-em-VisualG
