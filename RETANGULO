@@ -1,5 +1,10 @@
 Algoritmo "retangulo"
 
+Base do retangulo: 4.0
+Altura do retangulo: 5.0
+AREA = 20.0000
+PERIMETRO = 18.0000
+DIAGONAL = 6.4031 
 
 Var
 
@@ -7,16 +12,16 @@ Var
 
 Inicio
 
-       escreva("Base do Ret‚ngulo :")
+       escreva("Base do Ret√¢ngulo :")
        leia(base)
-       escreva("Altura do Ret‚ngulo: ")
+       escreva("Altura do Ret√¢ngulo: ")
        leia(altura)
        
        area <- base * altura
        perimetro <- 2 * (base + altura)
        diagonal <- RaizQ(Exp(base, 2) + Exp(altura,2))
        
-       escreval("¡rea :", area :8:4)
+       escreval("√Årea :", area :8:4)
        escreval("Perimetro: ", perimetro :8:4)
        escreva("Diagonal: ", diagonal :8:4)
 
