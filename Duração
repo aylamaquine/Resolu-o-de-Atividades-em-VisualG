@@ -1,7 +1,7 @@
 Algoritmo "duração"
-//Digite a duracao em segundos: 300
-//0:5:0
 
+Digite a duracao em segundos: 300
+0:5:0
 
 Var
        duracao, horas, resto, minutos, segundos: inteiro
