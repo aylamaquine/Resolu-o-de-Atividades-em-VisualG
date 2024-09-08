@@ -1,6 +1,8 @@
 Algoritmo "circulo"
-//Digite o valor do raio do circulo: 2.0
-//AREA = 12.566
+
+Digite o valor do raio do circulo: 2.0
+AREA = 12.566
+
 Var
       raio,area : real
 Inicio
