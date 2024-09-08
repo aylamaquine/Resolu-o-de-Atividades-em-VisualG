@@ -1,11 +1,12 @@
 Algoritmo "idades"
-//Dados da primeira pessoa:
-//Nome: Maria Silva
-//Idade: 19
-//Dados da segunda pessoa:
-//Nome: Joao Melo
-//Idade 20
-//A idade média de Maria Silva e Joao Melo é de 19.5 anos
+
+Dados da primeira pessoa:
+Nome: Maria Silva
+Idade: 19
+Dados da segunda pessoa:
+Nome: Joao Melo
+Idade 20
+A idade média de Maria Silva e Joao Melo é de 19.5 anos
 
 Var
    media: real
